@@ -59,3 +59,7 @@ dotnet new console -o MyConsoleApp
 - **_-o_**: This option specifies the output directory for the new project. In the example above, -o MyConsoleApp means the project will be created in a folder named "MyConsoleApp".
 
 By following these steps, you can seamlessly integrate .NET Core into your development workflow, whether you prefer Visual Studio Code, Visual Studio, or the command-line interface, and efficiently manage your projects with the dotnet command.
+
+---
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW12dnVlYWxwd29mZ2FhdmVkc3kzb2NnNzBhMHJlZGRybDg3cTdvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lYZjoIy0UOEJa/giphy.gif)
